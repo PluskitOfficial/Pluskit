@@ -69,6 +69,8 @@ Front-end developer：GX
 Backend developer：Mr. Zou
 
 ## How the community can engage
+GitHub Discussion:https://github.com/filecoin-project/community/discussions/390
+
 Email: PluskitOfficial@163.com
 
 Slack:@PluskitOfficial
