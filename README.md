@@ -76,4 +76,4 @@ Slack:@PluskitOfficial
 Twitter:@PluskitOfficial
 
 ## How to Contribute
-Send email to PluskitOfficial@163.com
+Contact us via Slack:@PluskitOfficial
