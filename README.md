@@ -62,16 +62,14 @@ Our team is still small, but each member of the team has nearly two years of exp
 ### Team Size  
 3
 ### Team members  
-Product Manager：Super Chang
+Product Manager：chic
 
-Front-end developer：ZF
+Front-end developer：jiaming
 
 Backend developer：Mr. Zhou
 
 ## How the community can engage
 GitHub Discussion:https://github.com/filecoin-project/community/discussions/390
-
-Email: PluskitOfficial@163.com
 
 Slack:@PluskitOfficial
 
