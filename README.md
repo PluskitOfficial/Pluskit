@@ -8,7 +8,7 @@ Application
 Pluskit is a Fil+ eco-tools platform. It is committed to providing ecological participants with practical, operability, and rich types of tools/plug-ins to reduce the difficulty for users to participate in ecology, enhance the convenience for developers and other users, and thereby increase the activity and prosperity of ecosystem.
 
 ## Project Status
-The ultimate goal of Pluskit is to serve the entire ecosystem of participants, the first phase of which will focus on Filecoin Plus. 
+The ultimate goal of Pluskit is to serve the entire ecosystem of participants, the first phase of which will focus on Data Board. 
 
 **Done**
 
